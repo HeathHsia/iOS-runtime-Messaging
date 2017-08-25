@@ -1,4 +1,3 @@
 # iOS-runtime-Messaging
-iOS runtime Messaging Demo 简单易懂 注释很全
+iOS runtime 学习过程
 
-本代码来自简书:http://www.jianshu.com/p/1bde36ad9938
